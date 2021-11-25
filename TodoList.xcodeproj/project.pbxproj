@@ -104,7 +104,6 @@
 				E3975B1624E6FDFFD4991AD7 /* Pods-TodoList.debug.xcconfig */,
 				7635C1258C0C8F9D12CCF7F1 /* Pods-TodoList.release.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
 		};
@@ -274,9 +273,9 @@
 			isa = PBXGroup;
 			children = (
 				EEF5F54B274FCFE8007C80B8 /* TodoItemHeaderView.xib */,
+				EEF5F54E274FCFE8007C80B8 /* TodoItemHeaderView.swift */,
 				EEF5F54C274FCFE8007C80B8 /* TodoItemCell.xib */,
 				EEF5F54D274FCFE8007C80B8 /* TodoItemCell.swift */,
-				EEF5F54E274FCFE8007C80B8 /* TodoItemHeaderView.swift */,
 			);
 			path = TodoItems;
 			sourceTree = "<group>";
